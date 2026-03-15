@@ -14,5 +14,8 @@ data was not included in this repo for data management through github.
 There is also a bunch of tracers and data variables specifically for the Beaufort Sea. 
 My project at the time was focusing on it. 
 
+LITS also uses matlab (specifically for the interpolation of the velocity tothe grid), 
+so you need it installed on your computer for this specific version
+
 If you have questions you can always contact me.
 felix.st-denis@mail.mcgill.ca
